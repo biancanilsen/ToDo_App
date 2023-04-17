@@ -5,7 +5,7 @@
 Developed in the programming logic III course of the Start By Capgemini program. It is an Application for project management and the tasks involved in these projects.
 
 
-### 🚀 Entities:
+### 📄 Entities:
 
 * Project
    * Name
@@ -23,7 +23,7 @@ Developed in the programming logic III course of the Start By Capgemini program.
    * Date Created
    * Date of Update
 
-### 🚧 Requirements
+### 📑 Requirements
 
 * Allow to create the Project registration;
 * Allow to change the Project;
@@ -33,7 +33,7 @@ Developed in the programming logic III course of the Start By Capgemini program.
 * Allow to change the Task;
 * Allow to delete Task;
 
-### 🎲 Business rules
+### 🖇 Business rules
  
 * Will not contain a login system
 * There will be no user concept
