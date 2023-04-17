@@ -1,7 +1,7 @@
 # ✅ To-do App 
 
 
-## 💻 About the project
+## About the project
 Developed in the programming logic III course of the Start By Capgemini program. It is an Application for project management and the tasks involved in these projects.
 
 
